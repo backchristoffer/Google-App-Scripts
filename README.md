@@ -7,3 +7,6 @@ Collection of my google app scripts I use for productivity
 
 [Remove https://issues.redhat.com/browse/ from the URL all rows in column ](remove-url-rows-in-column.js)
 - When I have a column of many hundreds of rows with OCPBUGS url that needs to be cleaned up for later use. 
+
+[Highlight duplicate rows in a column](highlight-duplicates-row.js)
+- When I deal with hundreds of rows of bugs I need a way to highlight the duplicates.
